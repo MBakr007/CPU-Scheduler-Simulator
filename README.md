@@ -8,6 +8,8 @@ Summary Describe each Technique.
 1. SJR(Shortest Job First) : Process which have the shortest burst time are scheduled first.If two processes have the same bust time then FCFS is used to break the tie. It is a non-preemptive scheduling algorithm.
 by mohamed mohsen
 
+
+
 2. SRTF(Shortest Remaining Time First) : It is preemptive of SJF algorithm in which we give priorty to the process having shortest burst time remaining.
 by mohamed mohsen
 
